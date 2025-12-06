@@ -1,0 +1,33 @@
+    1  mc
+    2  mc
+    3  ls
+    4  ls -la
+    5  cd .ssh
+    6  ls
+    7  nanp id_ed25519.pub
+    8  nano id_ed25519.pub
+    9  cat id_ed25519.pub
+   10  history
+   11  cd /dev
+   12  ls
+   13  ls
+   14  cd /home
+   15  ls
+   16  cd Student/
+   17  ls
+   18  cd dev
+   19  ls
+   20  cd test-oe-2025/
+   21  ls
+   22  ls -la
+   23  git status
+   24  cat README.md 
+   25  git status
+   26  git remote add origin git@github.com:AttilaDonka/test-oe-2025.git
+   27  git remote status
+   28  git remote show
+   29  git remote remove origin
+   30  git remote add origin git@github.com:AttilaDonka/test-oe-2025.git
+   31  git push -u origin main
+   32  cat README.md 
+   33  history >> history.txt
